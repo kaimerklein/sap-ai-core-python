@@ -2,7 +2,11 @@
 
 Find a detailed explanation and tutorial in my [YouTube video](https://youtu.be/neFqIs28nI8)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/neFqIs28nI8?si=wuN4lns_DaZZ00zW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/<div align="left">
+      <a href="https://www.youtube.com/watch?v=neFqIs28nI8">
+         <img src="https://img.youtube.com/vi/neFqIs28nI8/0.jpg" style="width:100%;">
+      </a>
+</div>
 
 ## Pre-requisites
 
