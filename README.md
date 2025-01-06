@@ -2,9 +2,9 @@
 
 Find a detailed explanation and tutorial in my [YouTube video](https://youtu.be/neFqIs28nI8)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/<div align="left">
+<div align="left">
       <a href="https://www.youtube.com/watch?v=neFqIs28nI8">
-         <img src="https://img.youtube.com/vi/neFqIs28nI8/0.jpg" style="width:100%;">
+         <img src="https://img.youtube.com/vi/neFqIs28nI8/0.jpg" style="width:60%;">
       </a>
 </div>
 
